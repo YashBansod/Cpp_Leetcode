@@ -72,7 +72,9 @@ public:
 };
 ```
 
-
+| Status                                                       | Runtime | Memory | Language |
+| :----------------------------------------------------------- | :------ | :----- | :------- |
+| [Accepted](https://leetcode.com/submissions/detail/316641081/) | 4 ms    | 7.5 MB | cpp      |
 
 <!---
 
