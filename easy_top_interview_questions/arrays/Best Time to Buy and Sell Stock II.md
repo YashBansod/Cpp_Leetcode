@@ -16,8 +16,6 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 **Example 1:**
 
-
-
 ```
 Input: [7,1,5,3,6,4]
 Output: 7
@@ -28,8 +26,6 @@ Explanation: Buy on day 2 (price = 1) and sell on day 3 (price = 5), profit = 5-
 
 
 **Example 2:**
-
-
 
 ```
 Input: [1,2,3,4,5]
@@ -42,8 +38,6 @@ Explanation: Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-
 
 
 **Example 3:**
-
-
 
 ```
 Input: [7,6,4,3,1]

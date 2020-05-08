@@ -12,8 +12,6 @@ Do not allocate extra space for another array, you must do this by **modifying t
 
 **Example 1:**
 
-
-
 ```
 Given nums = [1,1,2],
 
@@ -25,8 +23,6 @@ It doesn't matter what you leave beyond the returned length.
 
 
 **Example 2:**
-
-
 
 ```
 Given nums = [0,0,1,1,1,2,2,3,3,4],
@@ -40,8 +36,6 @@ It doesn't matter what values are set beyond the returned length.
 
 **Clarification:**
 
-
-
 Confused why the returned value is an integer but your answer is an array?
 
 
@@ -51,8 +45,6 @@ Note that the input array is passed in by **reference**, which means modificatio
 
 
 Internally you can think of this:
-
-
 
 ```
 // nums is passed in by reference. (i.e., without making a copy)
